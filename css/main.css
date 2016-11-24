@@ -19,7 +19,7 @@ img {
 }
 
 .cards {
-
+  list-style-type: none;
 }
 
 .card {
@@ -31,7 +31,7 @@ img {
 }
 
 .card-body {
-  
+
 }
 
 *, *::before, *::after {
